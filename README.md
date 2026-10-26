@@ -3,7 +3,7 @@
 ## 👥 Thanh vien nhom
 
 | STT | Ho Và Ten | MSSV | Tai Khoan github | Vai Tro | Phan Cong |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | 1 | Nguyen Duong Gia Khanh | 056307008420 | @Gkhanh557 | Truong nhom | Data model, tính metrics, ghép module, Test tổng hợp |
 | 2 | Vo Dinh Bao | 062207006568 | @baokt2307-beep | Thanh Vien | Thuật toán SJF non-preemptive, test SJF |
 | 3 | Nguyen Huu Quoc Huy | 056207008300 | @username_huy | Thanh Vien | Thuật toán FCFS, test FCFS |
